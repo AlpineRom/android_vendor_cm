@@ -284,7 +284,7 @@ else
     ifeq ($(PRODUCT_VERSION_MINOR),0)
         CM_VERSION := Alpine-$(PRODUCT_VERSION_MAJOR)-$(shell date -u +%Y%m%d)$(CM_EXTRAVERSION)-$(CM_BUILD)
     else
-        CM_VERSION := Alpine-$(PRODUCT_VERSION_MAJOR).$(PRODUCT_VERSION_MINOR)-$(shell date -u +%Y%m%d)$(CM_EXTRAVERSION)-$(CM_BUILD)
+        CM_VERSION := Alpine-$(PRODUCT_VERSION_MAJOR).$(PRODUCT_VERSION_MINOR)-$(PRODUCT_VERSION_MAINTENANCE)-$(shell date -u +%m%d%Y)$(CM_EXTRAVERSION)-$(CM_BUILD)
     endif
 endif
 
