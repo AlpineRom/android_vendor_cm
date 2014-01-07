@@ -1,26 +1,27 @@
-   _____________       _____             
-   ___    |__  /__________(_)___________ 
-   __  /| |_  /___  __ \_  /__  __ \  _ \
-   _  ___ |  / __  /_/ /  / _  / / /  __/
-   /_/  |_/_/  _  .___//_/  /_/ /_/\___/ 
-               /_/                       
-         ________                  
-         ___  __ \____________ ___ 
-         __  /_/ /  __ \_  __ `__ \
-         _  _, _// /_/ /  / / / / /
-         /_/ |_| \____//_/ /_/ /_/ 
+_____________       _____
+___    |__  /__________(_)___________
+__  /| |_  /___  __ \_  /__  __ \  _ \
+_  ___ |  / __  /_/ /  / _  / / /  __/
+/_/  |_/_/  _  .___//_/  /_/ /_/\___/
+            /_/
+________
+___  __ \____________ ___
+__  /_/ /  __ \_  __ `__ \
+_  _, _// /_/ /  / / / / /
+/_/ |_| \____//_/ /_/ /_/
 
 
-AlpineRom is based off of CyanogenMod Source.
+AlpineRom based off of CyanogenMod Source.
 Source code can be found at sites below.
 http://github.com/AlpineRom
 http://github.com/CyanogenMod
 
 
 CHANGELOG
--------------------
-### 4.4.2-beta.02
+----------------------
+# 4.4.2-beta.02
+* Active Display - Thanks to ChameleonOS
 * Various bug fixes - Thanks to CyanogenMod
-* AlpineRom Kernel - CM based with Sweep2Wake 
+* Alpine Kernel - CM based with Sweep2Wake
 * Android 4.4.2 (Google)
 
