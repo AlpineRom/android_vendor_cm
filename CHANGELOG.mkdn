@@ -1,14 +1,15 @@
-_____________       _____
-___    |__  /__________(_)___________
-__  /| |_  /___  __ \_  /__  __ \  _ \
-_  ___ |  / __  /_/ /  / _  / / /  __/
-/_/  |_/_/  _  .___//_/  /_/ /_/\___/
-            /_/
-________
-___  __ \____________ ___
-__  /_/ /  __ \_  __ `__ \
-_  _, _// /_/ /  / / / / /
-/_/ |_| \____//_/ /_/ /_/
+
+  AAA   lll         iii
+ AAAAA  lll pp pp       nn nnn    eee
+AA   AA lll ppp  pp iii nnn  nn ee   e
+AAAAAAA lll pppppp  iii nn   nn eeeee
+AA   AA lll pp      iii nn   nn  eeeee
+            pp
+RRRRRR
+RR   RR  oooo  mm mm mmmm
+RRRRRR  oo  oo mmm  mm  mm
+RR  RR  oo  oo mmm  mm  mm
+RR   RR  oooo  mmm  mm  mm
 
 
 AlpineRom based off of CyanogenMod Source.
