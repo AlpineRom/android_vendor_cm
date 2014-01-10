@@ -21,8 +21,9 @@ http://github.com/CyanogenMod
 CHANGELOG
 ----------------------
 # 4.4.2-beta.02
-* Active Display - Thanks to ChameleonOS
-* Various bug fixes - Thanks to CyanogenMod
-* Alpine Kernel - CM based with Sweep2Wake
+* Non-intrusive dialoger for incoming calls
+* Active Display
+* Various bug fixes
+* Alpine Kernel - Sweep2Wake
 * Android 4.4.2 (Google)
 
