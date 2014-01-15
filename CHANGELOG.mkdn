@@ -1,15 +1,5 @@
-
-  AAA   lll         iii
- AAAAA  lll pp pp       nn nnn    eee
-AA   AA lll ppp  pp iii nnn  nn ee   e
-AAAAAAA lll pppppp  iii nn   nn eeeee
-AA   AA lll pp      iii nn   nn  eeeee
-            pp
-RRRRRR
-RR   RR  oooo  mm mm mmmm
-RRRRRR  oo  oo mmm  mm  mm
-RR  RR  oo  oo mmm  mm  mm
-RR   RR  oooo  mmm  mm  mm
+AlpineRom
+=========
 
 
 AlpineRom based off of CyanogenMod Source.
