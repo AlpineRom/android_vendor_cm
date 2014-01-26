@@ -1,16 +1,14 @@
 AlpineRom
 =========
 
-
 AlpineRom based off of CyanogenMod Source.
 Source code can be found at sites below.
 http://github.com/AlpineRom
 http://github.com/CyanogenMod
 
-
 CHANGELOG
-----------------------
-# 4.4.2-beta.02
+---------------------
+# 4.4.2-beta.03
 * Non-intrusive dialoger for incoming calls
 * Active Display
 * Various bug fixes
