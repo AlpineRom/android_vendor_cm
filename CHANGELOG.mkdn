@@ -9,7 +9,6 @@ http://github.com/CyanogenMod
 CHANGELOG
 ---------------------
 # 4.4.2-beta.03
-* Non-intrusive dialoger for incoming calls
 * Active Display
 * Various bug fixes
 * Alpine Kernel - Sweep2Wake
