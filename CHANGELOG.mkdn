@@ -1,14 +1,15 @@
 AlpineRom
 =========
 
-AlpineRom based off of CyanogenMod Source.
+AlpineRom based off CyanogenMod Source.
 Source code can be found at sites below.
 http://github.com/AlpineRom
 http://github.com/CyanogenMod
 
 CHANGELOG
 ---------------------
-# 4.4.2-beta.03
+# 4.4.2-b.04
+* Dark Alpine - Slims TRDS 3.0
 * Active Display
 * Various bug fixes
 * Alpine Kernel - Sweep2Wake
