@@ -146,7 +146,7 @@ PRODUCT_PACKAGES += \
     audio_effects.conf \
     ARWallpapers \
     Apollo \
-    CMFileManager \
+    SlimFileManager \
     LockClock
 
 # CM Hardware Abstraction Framework
