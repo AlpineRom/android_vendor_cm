@@ -147,6 +147,7 @@ PRODUCT_PACKAGES += \
     ARWallpapers \
     Apollo \
     SlimFileManager \
+    OmniSwitch \
     LockClock
 
 # CM Hardware Abstraction Framework
@@ -221,7 +222,7 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/cm/overlay/common
 
 PRODUCT_VERSION_MAJOR = 4.4
 PRODUCT_VERSION_MINOR = 2
-PRODUCT_VERSION_MAINTENANCE = b.04
+PRODUCT_VERSION_MAINTENANCE = b.05
 
 # Set CM_BUILDTYPE from the env RELEASE_TYPE, for jenkins compat
 

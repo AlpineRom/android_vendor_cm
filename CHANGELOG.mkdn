@@ -8,7 +8,9 @@ http://github.com/CyanogenMod
 
 CHANGELOG
 ---------------------
-# 4.4.2-b.04
+# 4.4.2-b.05
+* Multi-Window - OmniROM
+* OmniSwitch
 * Dark Alpine - Slims TRDS 3.0
 * Active Display
 * Various bug fixes
