@@ -150,6 +150,11 @@ PRODUCT_PACKAGES += \
     OmniSwitch \
     LockClock
 
+# Screen recorder
+PRODUCT_PACKAGES += \
+    ScreenRecorder \
+    libscreenrecorder
+
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
     org.cyanogenmod.hardware \
