@@ -8,8 +8,13 @@ http://github.com/CyanogenMod
 
 CHANGELOG
 ---------------------
-# 4.4.2-b.06
-* Screen Recorder
+# 4.4.2-b.07
+* Restructure Settings Menu
+* Power Menu Screen Recorder
+* QS Quick Record Tile
+* QS Tile row options
+* QS Flipable Tiles
+* QS Power Menu tile
 * Multi-Window - OmniROM
 * OmniSwitch
 * Dark Alpine - Slims TRDS 3.0
