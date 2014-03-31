@@ -8,8 +8,12 @@ http://github.com/CyanogenMod
 
 CHANGELOG
 ---------------------
-# 4.4.2-b.07
-* Restructure Settings Menu
+# 4.4.2-b.08
+* T-Mobile Theme Engine
+* Lockscreen Notifications
+* Status Bar Network Usage Stats 
+* Status Bar Clock Customization
+* Restructured Settings Menu
 * Power Menu Screen Recorder
 * QS Quick Record Tile
 * QS Tile row options
