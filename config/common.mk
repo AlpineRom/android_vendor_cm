@@ -136,12 +136,13 @@ PRODUCT_PACKAGES += \
     #Trebuchet \
 
 PRODUCT_PACKAGES += \
-    Launcher3 \
+    Trebuchet \
     DSPManager \
     libcyanogen-dsp \
     audio_effects.conf \
     ARWallpapers \
     Apollo \
+    CMFileManager \
     SlimFileManager \
     OmniSwitch \
     LockClock
