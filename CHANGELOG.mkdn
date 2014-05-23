@@ -8,7 +8,7 @@ http://github.com/CyanogenMod
 
 CHANGELOG
 ---------------------
-# 4.4.2-s.01
+# 4.4.2-s.02
 * Video Camera fixes
 * T-Mobile Theme Engine
 * Lockscreen Notifications
