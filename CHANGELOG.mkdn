@@ -10,7 +10,7 @@ CHANGELOG
 ---------------------
 # 4.4.2-s.02
 * Video Camera fixes
-* T-Mobile Theme Engine
+* CM Theme Engine
 * Lockscreen Notifications
 * Status Bar Network Usage Stats 
 * Status Bar Clock Customization
