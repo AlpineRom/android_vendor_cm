@@ -133,8 +133,6 @@ PRODUCT_PACKAGES += \
     libemoji
 
 # Custom CM packages
-    #Trebuchet \
-
 PRODUCT_PACKAGES += \
     Trebuchet \
     DSPManager \
@@ -145,7 +143,8 @@ PRODUCT_PACKAGES += \
     CMFileManager \
     SlimFileManager \
     OmniSwitch \
-    LockClock
+    LockClock \
+    CMHome
 
 # Screen recorder
 PRODUCT_PACKAGES += \
